@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shams-ahson
-- 👀 I’m interested in Cybersecurity and Software Engineering
-- 🌱 I’m currently learning Python, C++ and more
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me sahson456@gmail.com
+- 👀 I’m interested in Cybersecurity and AI 
+- 🤍 I’m currently working on [CANQuest](https://github.com/CAN-Quest-Game), which will be at DEFCON 33 in August 2025!
+
 
 <!---
 shams-ahson/shams-ahson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
